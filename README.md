@@ -4,8 +4,9 @@
 
 **doc_intelligence_service.py** - Demonstrates Azure sample to extract text, key-value pairs, tables, and words, pages lines from documents automatically and accurately. 
 
-
-
+pip install  azure-storage-blob
+pip install  azure-identity
+pip install azure-ai-formrecognizer
 
 
 **Azure Blob Storage :**
